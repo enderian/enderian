@@ -3,7 +3,7 @@
 (Hello!) Happy to see you here! Come, take a seat;
 
 I'm **Spyros** (24) and my passion is building software. Bonus points if it helps improve people's lives!
-I am currently working [@skroutz](https://github.com/skroutz) as a Full-Stack Engineer, with is built on Ruby on Rails and React, building new ways for people to interact with our search engine and helping them in finding the products they need and want! I have previously been working as a Java engineer at Interamerican, a Greek Insurance provider.
+I am currently working [@skroutz](https://github.com/skroutz) as a Full-Stack Engineer, which is built on Ruby on Rails and React, building new ways for people to interact with our search engine and helping them in finding the products they need and want! I have previously been working as a Java engineer at Interamerican, a Greek Insurance provider.
 
 I've also been actively involved in authoring Minecraft server mods (which are written in either Java or Kotlin), both for my own community, [@vanillaverse](https://github.com/vanillaverse), as well as for other Minecraft servers since 2014.
 
