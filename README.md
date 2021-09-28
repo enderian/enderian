@@ -4,7 +4,7 @@
 
 I'm **Spyros** (24) and my passion is building software. Bonus points if it helps improve people's lives!
 I am currently working [@n26](https://github.com/n26) as a Backend Engineer in the Cards division.
-Before this, I've been working at [@skroutz](https://github.com/skroutz], built on Ruby on Rails and React, building new ways for people to interact with our search engine and helping them in finding the products they need and want!
+Before this, I've been working at [@skroutz](https://github.com/skroutz), built on Ruby on Rails and React, building new ways for people to interact with our search engine and helping them in finding the products they need and want!
 
 I've also been actively involved in authoring Minecraft server mods (which are written in either Java or Kotlin), both for my own community, [@vanillaverse](https://github.com/vanillaverse), as well as for other Minecraft servers since 2014.
 
